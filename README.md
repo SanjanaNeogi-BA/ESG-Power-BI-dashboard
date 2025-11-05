@@ -22,12 +22,29 @@ Governance: The Governance page highlights ESG Board Display (11.03%), which dem
 
 ## Value Added to the Organization
 
-Value Area,Dashboard Impact & Framework Synergy
-Integrated Strategy,"Unified Reporting: Uses a single, verified data set to satisfy the distinct needs of TCFD (investor-focused climate risk), GRI (broad stakeholder impact), and TOMS (outcome-based performance)."
-TCFD & Risk Mitigation,Proactive Climate Management: Embedded emissions forecasting enables strategic planning and financially material climate risk assessment as required by TCFD. Continuous monitoring of AFR (Accident Frequency Rate) mitigates operational risk.
-GRI & Transparency,"Enhanced Stakeholder Trust: Reporting on 14 GRI Metrics ensures compliance with global standards, providing high transparency to employees, investors, and regulators."
-TOMS & Target Setting,"Outcome-Focused Goals: Performance scores (E Score: 6.08, S Score: 7.34, G Score: 5.97) and policy-to-SDG mapping provide the foundation for setting robust, measurable, and time-bound strategic goals aligned with organizational outcomes."
-Resource Efficiency,Cost Optimization: Granular drill-down into energy usage (2.77M KWH) and Scope 3 emission drivers pinpoints high-impact areas for resource conservation and cost reduction efforts.
+This dashboard delivers significant value by driving data-informed decisions and ensuring compliance with leading global sustainability frameworks (TCFD, GRI, and TOMS).
+
+* Integrated Reporting and Strategy:
+
+Uses a single, verified data set to satisfy the distinct needs of TCFD (investor-focused climate risk), GRI (broad stakeholder impact), and TOMS (outcome-based performance).
+
+* Proactive Risk Mitigation (TCFD Aligned):
+
+The embedded emissions forecasting enables strategic planning and financially material climate risk assessment.
+
+Continuous monitoring of high-risk metrics like the Accident Frequency Rate (AFR) mitigates operational and social risks.
+
+* Enhanced Transparency (GRI Aligned):
+
+Reporting on 14 GRI Metrics and detailed supporting data ensures compliance with global standards, significantly enhancing transparency to investors, employees, and regulators.
+
+* Outcome-Focused Goal Setting (TOMS Aligned):
+
+Performance scores (E Score: 6.08, S Score: 7.34, G Score: 5.97) and the policy-to-SDG mapping provide the foundation for setting robust, measurable, and outcome-based strategic goals.
+
+* Resource Efficiency and Cost Control:
+
+The granular drill-down features identify high-impact areas for resource conservation and cost reduction, such as detailed analysis of energy usage (2.77M KWH) and Scope 3 emission drivers.
 
 ## Data Model Foundation
 

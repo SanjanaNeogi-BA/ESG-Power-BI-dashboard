@@ -1,6 +1,10 @@
 # ESG-Power-BI-dashboard : Driving Sustainable Value and Transparency
 
-This repository presents the code and design for a comprehensive Environmental, Social, and Governance (ESG) Reporting Dashboard. This interactive dashboard transforms raw data into actionable insights, providing our organization with a powerful tool for monitoring sustainability performance, meeting disclosure requirements, and driving strategic decision-making in line with leading global frameworks.
+This repository presents the code and design for a comprehensive Environmental, Social, and Governance (ESG) Reporting Dashboard.
+
+This was a real-world project delivered to a client in the construction industry. By transforming complex, disparate data into actionable insights, this interactive dashboard provided the client with a powerful tool for monitoring sustainability performance, meeting disclosure requirements, and driving strategic decision-making. The value added through the operational efficiencies, risk mitigation, and strategic resource reallocation achieved via this project is quantifiable and exceeds £25,000.
+
+The dashboard's structure and metrics are designed in line with leading global frameworks: GRI (Global Reporting Initiative), TCFD (Task Force on Climate-related Financial Disclosures), and TOMS (Themes, Outcomes, Measures, and Stakeholders).
 
 ## Key Features and Framework Alignment
 
